@@ -11,7 +11,7 @@ cymem==2.0.7
 distlib==0.3.6
 docx2txt==0.8
 filelock==3.8.2
-gensim==4.3.1
+gensim==4.2.0
 idna==3.4
 Jinja2==3.1.2
 joblib==1.2.0
